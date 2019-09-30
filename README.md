@@ -1,6 +1,5 @@
 # awscli-container
 
-![MicroBadger Size](https://img.shields.io/microbadger/image-size/scottam/awscli/latest)
 ![Build](https://img.shields.io/docker/cloud/build/scottam/awscli)
 ![Docker Pulls](https://img.shields.io/docker/pulls/scottam/awscli)
 ![MIT Licence](https://img.shields.io/github/license/scottalexandermurray/awscli-container)
