@@ -4,7 +4,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/scottam/awscli)
 ![MIT Licence](https://img.shields.io/github/license/scottalexandermurray/awscli-container)
 
-This repository contains a dockerfile that is used to build a minimal docker image with the AWS CLI installed.
+This repository contains dockerfiles that are used to build a minimal docker image with the AWS CLI installed.
 
 The reason I decided to create this is to allow processes (in particular, CI/CD) to leverage this image when interacting with AWS
 
