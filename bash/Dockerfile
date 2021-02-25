@@ -7,6 +7,7 @@ LABEL maintainer="Scott Murray <scottam.coder@gmail.com>"
 RUN apk update && apk add \
   python3 \
   groff \
+  jq \
   bash
 
 #Upgrade pip and install the aws cli
